@@ -1,2 +1,1 @@
-# actividad2-paradigmas
-Repo para actividad N° 2 de la materia paradigmas y lenguajes de programación.
+# Códigos de ejemplo para las actividades  de la materia Paradigmas y Lenguajes de Programación.
